@@ -1,0 +1,9 @@
+#basic-grid {
+    background-color: peachpuff;
+    padding: 20px 0;
+
+}
+
+#basic-grid .row {
+    background-color: beige;
+}
